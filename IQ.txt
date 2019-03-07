@@ -1,0 +1,6 @@
+
+
+I am AWS certified, and having good knowledge of Docker, GIT, Micro services and having 2 years of experience in Jenkins
+I worked worked on projects like: CI/CD with the help of Jenkins.
+Docker integration with docker, Jenkins and GIT, deploying docker images on AWS, Also i have worked on application production support
+and having good knowledge of shell scripting
